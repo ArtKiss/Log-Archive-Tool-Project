@@ -7,3 +7,6 @@ This Bash script archives log files from a specified directory, compresses them 
 - 🔥 Compresses logs into a `.tar.gz` archive.
 - 📝 Logs the archive operation to a file.
 - 🕒 Can be automated using `cron`.
+
+Link for start project
+https://roadmap.sh/projects/log-archive-tool
