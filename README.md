@@ -1,5 +1,9 @@
-# Log-Archive-Tool-Project
+Log Archive Tool Project
 
-Task 1
-Requirements
-The tool should run from the command line, accept the log directory as an argument, compress the logs, and store them in a new directory. 
+This Bash script archives log files from a specified directory, compresses them into a `.tar.gz` file, and stores them in `/var/log/archive/`. This helps keep the system clean while preserving logs in a compressed format for future reference.
+
+## 🚀 Features
+- 📂 Accepts a log directory as an argument.
+- 🔥 Compresses logs into a `.tar.gz` archive.
+- 📝 Logs the archive operation to a file.
+- 🕒 Can be automated using `cron`.
